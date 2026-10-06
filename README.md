@@ -25,4 +25,4 @@ Previously built ATM performance monitoring for Emirates NBD, microservices and 
 
 ## Let's connect
 
-💼 [LinkedIn](https://linkedin.com/in/sidharth-s-naik) · 📄 [Resume](LINK) · ✉️ EMAIL(sn.sidharth95@gmail.com)
+💼 [LinkedIn](https://linkedin.com/in/sidharth-s-naik) · 📄 [Resume](LINK) · ✉️ [EMAIL](sn.sidharth95@gmail.com)
